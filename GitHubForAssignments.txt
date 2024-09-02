@@ -1,0 +1,2 @@
+I will use the VS code method the most. 
+It is easier conceptually for me to pull and push using VSCode.
